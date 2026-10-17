@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "20a0af15a74586d22ff26e56",
+  "owner": "tajavaq",
+  "repo": "page-a6dbb4a362693d7fd69508ee",
+  "title": "天航",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a6dbb4a362693d7fd69508ee",
+      "a": "天航",
+      "b": "",
+      "entity": "天航",
+      "brand": "天航",
+      "separator": "",
+      "path": "index.html",
+      "hash": "77ce283656bc8bc120dc834d1e730b5abce08f5f99893ba2efd29fb0ecd6b797",
+      "content": {
+        "keyword1": "天航",
+        "keyword2": "",
+        "primary_entity": "天航",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "天航以清单式服务交付每一项承诺：明确的流量配额、设备数量与节点类型，从基础到团队三个版本按需选择，无隐性条件。",
+          "AI_DESCRIPTION": "天航以清单式服务交付每一项承诺：明确的流量配额、设备数量与节点类型，从基础到团队三个版本按需选择，无隐性条件。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{\n  --bg:#f2f3f7; --ink:#1a1a22; --muted:#5b5b66; --accent:#7c3aed;\n  --card:#ffffff; --line:#cfd0dc; --dash:#9a9aa7; --soft:#e9eaf3;\n}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--ink);\n  font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;\n  line-height:1.6}\na{color:var(--accent);text-decoration:none}\nmain{max-width:1080px;margin:0 auto;padding:32px 20px 80px}\nh1,h2,h3{line-height:1.25;margin:0 0 12px}\np{margin:0 0 12px}\nsmall{color:var(--muted)}\n.hero{\n  display:grid;grid-template-columns:repeat(4,1fr);gap:14px;\n  padding:24px;background:var(--card);border:1px solid var(--line);\n}\n.hero h1{font-size:clamp(28px,4vw,40px);font-weight:800;letter-spacing:-0.02em}\n.hero .lead{grid-column:1/3;color:var(--muted)}\n.metrics{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,1fr);gap:14px}\n.tile{\n  background:var(--soft);padding:18px 16px;\n  border-top:3px solid var(--accent);\n}\n.tile .num{font-size:28px;font-weight:800}\n.tile .label{font-size:13px;color:var(--muted)}\n.stack{margin-top:48px}\n.stack h2{font-size:26px;border-left:4px solid var(--accent);padding-left:12px}\n.plan{\n  border:2px dashed var(--dash);background:#fff;padding:24px;margin:14px 0;\n}\n.plan h3{display:flex;align-items:baseline;justify-content:space-between;gap:12px}\n.plan .price{font-weight:800;color:var(--accent)}\n.plan .tag{display:inline-block;padding:4px 10px;background:var(--accent);color:#fff;font-size:12px;margin-bottom:8px}\n.plan ul{margin:10px 0 0;padding-left:18px}\n.plan li{margin:6px 0}\n.links{margin:48px 0;display:flex;flex-wrap:wrap;gap:12px}\n.links a{padding:8px 14px;background:#fff;border:1px solid var(--line)}\n.faq details{border:1px solid var(--line);background:#fff;padding:16px 18px;margin:10px 0}\n.faq summary{cursor:pointer;font-weight:600}\n.faq p{margin-top:10px;color:var(--muted)}\n.clients{margin-top:48px}\n.client-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}\n.client-grid .item{border:1px solid var(--line);background:#fff;padding:18px}\nfooter{border-top:1px solid var(--line);padding:24px;color:var(--muted);text-align:center;font-size:13px}\n@media(max-width:720px){\n  .hero{grid-template-columns:1fr}\n  .hero .lead{grid-column:1}\n  .metrics{grid-template-columns:repeat(2,1fr)}\n  .client-grid{grid-template-columns:1fr}\n}\n</style><main>\n\n<header class=\"hero\">\n  <h1>天航</h1>\n  <p class=\"lead\">把网络加速当作一份清单来交付：明确写入流量、设备数、节点类型，没有“极速”“解锁一切”这类模糊承诺。</p>\n\n  <div class=\"metrics\">\n    <div class=\"tile\"><div class=\"num\">3</div><div class=\"label\">可选套餐版本</div></div>\n    <div class=\"tile\"><div class=\"num\">3–20</div><div class=\"label\">同时在线设备</div></div>\n    <div class=\"tile\"><div class=\"num\">100–1000GB</div><div class=\"label\">月度流量配额</div></div>\n    <div class=\"tile\"><div class=\"num\">7×24</div><div class=\"label\">工单响应窗口</div></div>\n  </div>\n</header>\n\n<section class=\"links\">\n  <a href=\"#plans\">查看套餐</a>\n  <a href=\"#clients\">客户端与使用</a>\n  <a href=\"#faq\">常见问题</a>\n</section>\n\n<section class=\"stack\" id=\"plans\">\n  <h2>套餐说明</h2>\n  <p>三个版本按流量、设备数、节点类型分级，价格按月或按年标注，无叠加优惠条件。</p>\n\n  <article class=\"plan\">\n    <h3>基础版 <span class=\"price\">¥15/月</span></h3>\n    <p><small>按年付 ¥150/年</small></p>\n    <ul>\n      <li>每月 100GB 流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>基础流媒体访问</li>\n      <li>普通线路节点池</li>\n    </ul>\n  </article>\n\n  <article class=\"plan\">\n    <h3>旗舰版 <span class=\"price\">¥35/月</span></h3>\n    <span class=\"tag\">推荐</span>\n    <p><small>按年付 ¥350/年</small></p>\n    <ul>\n      <li>每月 300GB 流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体访问</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7×24 优先工单支持</li>\n    </ul>\n  </article>\n\n  <article class=\"plan\">\n    <h3>团队版 <span class=\"price\">¥85/月</span></h3>\n    <p><small>按年付 ¥850/年</small></p>\n    <ul>\n      <li>每月 1000GB 流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n  </article>\n</section>\n\n<section class=\"clients\" id=\"clients\">\n  <h2>客户端与使用</h2>\n  <p>天航通过通用网络代理协议接入，用户可使用常见的第三方客户端配置连接。</p>\n  <div class=\"client-grid\">\n    <div class=\"item\">\n      <h3>Windows</h3>\n      <p>使用通用代理客户端，导入订阅地址即可完成配置。请从客户端官方渠道获取安装包。</p>\n    </div>\n    <div class=\"item\">\n      <h3>macOS</h3>\n      <p>推荐使用开源代理客户端，订阅链接自动同步节点列表，切换节点后即刻生效。</p>\n    </div>\n    <div class=\"item\">\n      <h3>iOS / Android</h3>\n      <p>在对应应用商店获取通用代理应用，复制订阅地址进入应用添加即可使用。</p>\n    </div>\n  </div>\n</section>\n\n<section class=\"faq\" id=\"faq\">\n  <h2>常见问题</h2>\n\n  <details>\n    <summary>如何选择合适的套餐？</summary>\n    <p>按设备数和月度流量判断：3 台以下、100GB 以内选基础版；需要流媒体与游戏优化选旗舰版；多人共用或需要定制路由选团队版。</p>\n  </details>\n\n  <details>\n    <summary>流量用完后会怎样？</summary>\n    <p>流量耗尽后当月连接将被暂停，可等待次月自动重置或升级至更高流量套餐。</p>\n  </details>\n\n  <details>\n    <summary>套餐支持退款吗？</summary>\n    <p>天航按清单式条款执行：如服务因平台原因连续不可用超过 24 小时，可申请按比例延长时长；主动购买后不支持无理由退款。</p>\n  </details>\n\n  <details>\n    <summary>哪些客户端可用？</summary>\n    <p>支持常见的开源网络代理客户端，不绑定单一应用。具体配置方式以客户端官方说明为准。</p>\n  </details>\n\n  <details>\n    <summary>能否切换节点？</summary>\n    <p>所有套餐均可在所属节点池内自由切换，旗舰版与团队版额外提供高带宽或定制路由节点。</p>\n  </details>\n</section>\n\n</main>\n<footer>\n  天航 · 清单式网络加速服务\n</footer>",
+          "hash": "04c8a45f659ce50acd81fc2f9b1c5dd492db22cbd3b6e6da45cb169954812781",
+          "seo": {
+            "title": "天航 — 务实的网络加速服务",
+            "keywords": "天航,网络加速,IPLC专线,流媒体解锁,多设备",
+            "description": "天航以清单式服务交付每一项承诺：明确的流量配额、设备数量与节点类型，从基础到团队三个版本按需选择，无隐性条件。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4163",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jianghechunfang.cn",
+    "host": "p-c4123042d9.jianghechunfang.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6ac93058b93bd1e6141301afddcc99811bfbc25568ec9b29d8072522ef4d339c",
+    "sitemap.xml": "86607eac891cb8278f0fba9cbef3bd17dddb5c4ba072b60ae6511cb4683583da",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "984d16830fc59784a311b4b77626164128a3a5bc16b300afac3fa81155d4b419",
+    "robots.txt": "d9be0a78f02eea41dbe48a36020d05124e5cba88685bf30df4bf68c3d4b35e96",
+    "7cd8ae40fd89baa29f1a2cd9e59ca876.txt": "9c695aee208d3c6da5ac7eb316a37252dfeb77232848fffe8c31941d91e3eacf"
+  },
+  "revision": "19b917ed67bfd5fc69a77510de5f0cce602be1d036db7bb4742c33b52e67c536"
+}

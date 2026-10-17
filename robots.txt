@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c4123042d9.jianghechunfang.cn/sitemap.xml
